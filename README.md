@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nicoambrosis/Effective-Pandas/blob/main/Banners%20GitHub.jpg">
+  <img src="https://github.com/NoeliaFerrero/Effective-Pandas/blob/main/Banners%20GitHub.jpg">
 </p>
 
 ---
