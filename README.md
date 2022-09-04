@@ -7,7 +7,7 @@
 Este repositorio contiene material de estudio relacionado a la librería PANDAS de Python realizado a partir de tutoriales, clases y libros de [Mat Harrison](https://twitter.com/__mharrison__).
 
 ### Indice
-[`%%timeit`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`%%timeit`](https://github.com/NoeliaFerrero/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 [`add()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/06%20Operation%20with%20SERIES.ipynb)
 [`add_prefix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`add_suffix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
